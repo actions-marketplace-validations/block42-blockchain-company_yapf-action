@@ -1,6 +1,6 @@
-name: 'YAPF Python Code Formatting Check'
-description: 'Run YAPF to check if your python code is correctly formatted.'
-author: "Alexander Melde <alexander@melde.net>"
+name: 'YAPF Python Code Formatter'
+description: 'Run YAPF to format your python code.'
+author: "Mr-Rooftop"
 
 branding:
   icon: 'check-circle'
